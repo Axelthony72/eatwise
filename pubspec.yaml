@@ -1,0 +1,64 @@
+name: eatwise
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  percent_indicator: ^4.2.3
+  fl_chart: ^0.40.0
+  flutter_tts: ^3.2.0
+  animate_do: ^2.0.0
+  flutter_animate: ^4.0.0
+  image_picker: ^0.8.5+3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true  # Assure-toi que cette ligne est présente
+  assets:
+    - assets/images/pomme.jpeg
+    - assets/images/banane.jpeg
+    - assets/images/orange.jpeg
+    - assets/images/carotte.jpeg
+    - assets/images/brocoli.jpeg
+    - assets/images/epinard.jpeg
+    - assets/images/lait.jpeg
+    - assets/images/fromage.jpeg
+    - assets/images/yaourt.jpeg
+    - assets/images/poulet.jpeg
+    - assets/images/saumon.jpeg
+    - assets/images/steack.jpeg
+    - assets/images/porc.jpeg
+    - assets/images/oeuf.jpeg
+    - assets/images/MON_LOGO.jpeg
+    - assets/images/image1,1.jpeg
+    - assets/images/image2.jpeg
+    - assets/images/image3.jpeg
+    - assets/images/imagelogin.jpeg
+    - assets/images/imagelogin.jpeg
+    - assets/icons/facebook.jpeg
+    - assets/icons/google.jpeg
+    - assets/icons/apple.jpeg
+    - assets/images/salmon with roasted potatoes.jpeg
+    - assets/images/bolognese.jpeg
+    - assets/images/chicken breast with quinoa.jpeg
+    - assets/images/vegetable stir-fry with tofu.jpeg
+    - assets/images/Omelette with avocado.jpeg
+    - assets/images/poisson braisé.jpeg
+    - assets/images/foufou.jpeg
+    - assets/images/eba avec egus.jpeg
+    - assets/images/poulet yassa.jpeg
+    - assets/images/porride d'ignamz.jpeg
+    - assets/images/poulet vapeur.jpeg
+    - assets/images/poisson fonio.jpeg
